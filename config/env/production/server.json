@@ -1,0 +1,11 @@
+{
+    "host" : "${process.env.HOST}",
+    "port" : "${process.env.PORT}",
+    "production" : true,
+    "proxy" : {
+        "enabled" : false
+    },
+    "admin" : {
+        "autoOpen" : false
+    }
+}
