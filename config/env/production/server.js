@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-    url: env('https://manuscripts-backend.herokuapp.com/'),
+    url: env('https://manuscripts-backend.herokuapp.com'),
   });
