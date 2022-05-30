@@ -9,7 +9,6 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
-package-lock.json
 
 
 ############################
@@ -113,3 +112,4 @@ exports
 *.cache
 build
 .strapi-updater.json
+package-lock.json
